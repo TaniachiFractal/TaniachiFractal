@@ -1,6 +1,6 @@
-## do not read me lmfao
+## do not read me lol
 
 
 **TaniachiFractal** 
-![alt text](
+![slowbro](https://github.com/TaniachiFractal/TaniachiFractal/blob/main/slowbro.jpg?raw=true)
 
