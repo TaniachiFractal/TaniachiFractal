@@ -2,5 +2,5 @@
 
 
 **TaniachiFractal** 
-![slowbro](https://github.com/TaniachiFractal/TaniachiFractal/blob/main/slowbro.jpg?raw=true)
+![slowbro](https://github.com/TaniachiFractal/TaniachiFractal/blob/main/slowbro.jpg)
 
